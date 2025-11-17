@@ -1,4 +1,5 @@
-## Hi there 👋
+![https://www.linkedin.com/in/ogoldich](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | ![https://www.xing.com/profile/Oliver_Goldich](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)
+
 
 <!--
 **obue/obue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
